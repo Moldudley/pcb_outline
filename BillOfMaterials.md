@@ -2,3 +2,5 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
+|Spindle Control Board|1|$35.00||
+|Total: |1|$35.00| |
